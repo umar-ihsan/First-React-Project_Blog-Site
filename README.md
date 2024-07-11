@@ -15,4 +15,4 @@ You may also see any lint errors in the console.
 
 Run this command in a separate terminal to start the backend on port 8000
 
-                z
+                
