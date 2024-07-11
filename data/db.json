@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Woof Woof",
+      "body": "The heartwarming tale of a brown dog named Rusty, affectionately known for his constant 'Woof Woof' greetings, captures the essence of unconditional love and loyalty. Rusty's enthusiasm and energy brighten the lives of everyone around him. From fetching the morning newspaper to eagerly waiting by the door for his beloved owner, Rusty exemplifies the joy and companionship that dogs bring into our lives. His unwavering devotion reminds us of the profound bond between humans and their furry friends, embodying the simple yet profound happiness found in the everyday moments shared with a beloved pet.",
+      "author": "brown dog",
+      "id": "2"
+    },
+    {
+      "title": "Yeee Haww!",
+      "body": "In the wild west adventure of 'Yeee Haww!', Harry the Horse emerges as a charismatic and adventurous spirit, galloping through the dusty trails with his cowboy hat held high. His daring escapades and cowboy wisdom capture the imagination of readers young and old alike. Harry's journey unfolds against the backdrop of sweeping prairies and rugged mountains, where each hoofbeat resonates with the spirit of freedom and courage. Through his thrilling exploits and daring encounters, Harry embodies the indomitable spirit of the frontier, reminding us that life's greatest adventures await those brave enough to chase their dreams beyond the horizon.",
+      "author": "Harry the Horse",
+      "id": "3"
+    },
+    {
+      "id": "007b",
+      "title": "grapes are sour",
+      "body": "lorem ipsum dolorem...........................",
+      "author": "aesop"
+    }
+  ]
+}
